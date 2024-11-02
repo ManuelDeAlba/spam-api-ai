@@ -1,0 +1,374 @@
+mensaje,clase
+"¡Gana dinero rápido! Solo envía un mensaje y obtén tu recompensa.",spam
+"¿Qué medicamentos son seguros para el dolor de cabeza?",no_spam
+"¡Compra ahora y obtén un descuento del 50%! Visita nuestro sitio.",spam
+"¿Cuáles son los efectos secundarios de la aspirina?",no_spam
+"¡Oferta limitada! Solo por hoy, productos a mitad de precio.",spam
+"Necesito saber si este medicamento es adecuado para mi edad.",no_spam
+"¡Felicidades! Has sido seleccionado para un premio.",spam
+"¿Cuál es el mejor tratamiento para la alergia?",no_spam
+"Consigue un préstamo personal con tasas bajas.",spam
+"¿Qué debes hacer en caso de una sobredosis?",no_spam
+"¡Actúa ahora! Últimos días de nuestra promoción.",spam
+"¿Puedo tomar este medicamento durante el embarazo?",no_spam
+"¡Gana un iPhone nuevo! Solo tienes que registrarte.",spam
+"¿Cuáles son las interacciones de este fármaco?",no_spam
+"Visita nuestro sitio para obtener información sobre inversiones.",spam
+"¿Qué puedo hacer para aliviar un resfriado?",no_spam
+"¡No te pierdas nuestra gran venta de fin de semana!",spam
+"¿Es seguro combinar estos dos medicamentos?",no_spam
+"¡Haz clic aquí para ganar un viaje gratis!",spam
+"¿Cómo puedo obtener una receta médica?",no_spam
+"¡Aprovecha nuestro curso gratuito de inversiones!",spam
+"¿Cuál es el mejor tratamiento para la ansiedad?",no_spam
+"¡Oferta especial en medicamentos para la alergia!",spam
+"¿Qué puedo hacer para reducir la fiebre?",no_spam
+"¡Consigue un descuento en tus compras ahora!",spam
+"¿Es seguro tomar este medicamento con alcohol?",no_spam
+"¡Participa en nuestro concurso y gana un coche!",spam
+"¿Cuáles son los síntomas de la gripe?",no_spam
+"¡Haz clic para conocer las mejores ofertas!",spam
+"¿Qué analgésico es el más eficaz?",no_spam
+"¡Gana un viaje a la playa solo por registrarte!",spam
+"¿Qué debo hacer si me olvido de tomar una pastilla?",no_spam
+"¡Descuentos increíbles en productos de belleza!",spam
+"¿Cómo se administra este medicamento?",no_spam
+"¡Consigue un iPad gratis solo por ser nuestro cliente!",spam
+"¿Qué debo tener en cuenta al tomar este medicamento?",no_spam
+"¡Compra uno y llévate otro gratis!",spam
+"¿Qué tratamientos existen para la depresión?",no_spam
+"¡Haz clic aquí para obtener información sobre criptomonedas!",spam
+"¿Puedo tomar este medicamento si estoy embarazada?",no_spam
+"¡Última oportunidad! Solo quedan 10 productos.",spam
+"¿Cuánto tiempo tarda en hacer efecto este fármaco?",no_spam
+"¡Gana dinero desde casa!",spam
+"¿Cuál es la dosis recomendada de este medicamento?",no_spam
+"¡Regístrate y recibe un bono de bienvenida!",spam
+"¿Qué debo hacer en caso de reacciones alérgicas?",no_spam
+"¡Haz clic aquí para descubrir secretos de salud!",spam
+"¿Qué medicamento es mejor para el dolor de estómago?",no_spam
+"¡Aprovecha nuestras ofertas por tiempo limitado!",spam
+"¿Cuáles son los efectos a largo plazo de este tratamiento?",no_spam
+"¡Participa en nuestra encuesta y gana premios!",spam
+"¿Cómo se debe almacenar este medicamento?",no_spam
+"¡Visita nuestra página para obtener más información!",spam
+"¿Qué hacer si olvido una dosis?",no_spam
+"¡Gana un iPhone si compartes este mensaje!",spam
+"¿Es seguro tomar este medicamento con otros tratamientos?",no_spam
+"¡Promoción exclusiva para nuevos clientes!",spam
+"¿Cuándo debo tomar este medicamento?",no_spam
+"¡Conviértete en un experto en trading!",spam
+"¿Cómo puedo mejorar mi salud?",no_spam
+"¡Última llamada para nuestras ofertas!",spam
+"¿Qué hacer si tengo una reacción adversa?",no_spam
+"¡Haz clic para obtener un regalo!",spam
+"¿Qué medicamentos son adecuados para niños?",no_spam
+"¡Consigue un descuento si recomiendas a un amigo!",spam
+"¿Cómo puedo solicitar una receta médica?",no_spam
+"¡Participa en nuestro programa de recompensas!",spam
+"¿Qué efectos secundarios debo tener en cuenta?",no_spam
+"¡Compra ahora y obtén envío gratis!",spam
+"¿Cómo afecta este medicamento a personas mayores?",no_spam
+"¡Invierte en tu futuro con nuestras oportunidades!",spam
+"¿Cuándo debo consultar a un médico?",no_spam
+"¡No te pierdas nuestras grandes ofertas!",spam
+"¿Qué hacer si se me acaba la receta?",no_spam
+"¡Gana un viaje a París!",spam
+"¿Cuál es la mejor forma de prevenir enfermedades?",no_spam
+"¡Aprovecha el descuento exclusivo del 30%!",spam
+"¿Qué alimentos debo evitar con este medicamento?",no_spam
+"¡Haz clic y descubre cómo ser millonario!",spam
+"¿Es seguro usar este medicamento a largo plazo?",no_spam
+"¡Obtén una tarjeta de regalo por cada compra!",spam
+"¿Cuáles son los síntomas de la diabetes?",no_spam
+"¿Qué debo hacer si tengo dudas sobre mi tratamiento?",no_spam
+"¡Aprovecha nuestras ofertas de temporada!",spam
+"¿Cómo puedo saber si un medicamento es adecuado para mí?",no_spam
+"¡Gana premios por tus compras!",spam
+"¿Qué es lo primero que debo hacer en caso de emergencia?",no_spam
+"¡Consigue un acceso VIP a nuestras promociones!",spam
+"¿Qué cuidados debo tener al tomar este fármaco?",no_spam
+"¡No te quedes sin tu regalo!",spam
+"¿Cuáles son los riesgos de este medicamento?",no_spam
+"¡Haz clic aquí para recibir información exclusiva!",spam
+"¿Qué hacer si tengo efectos secundarios?",no_spam
+"¡Gana un smartwatch!",spam
+"¿Cómo puedo mejorar mi calidad de vida?",no_spam
+"¡Descuentos solo por hoy!",spam
+"¿Cuándo es necesario cambiar de medicamento?",no_spam
+"¡Haz clic aquí para descubrir cómo ahorrar dinero!",spam
+"¿Qué información debo tener al ir al médico?",no_spam
+"¡Aprovecha nuestra promoción de 2x1!",spam
+"¿Cómo se compara este medicamento con otros?",no_spam
+"¡Participa y gana un iPhone!",spam
+"¿Qué hacer si no veo mejoría?",no_spam
+"¡Aprovecha el descuento de la semana!",spam
+"¿Es seguro tomar este medicamento con otros?",no_spam
+"¡Descubre cómo hacer dinero en línea!",spam
+"¿Cuándo debo preocuparme por mis síntomas?",no_spam
+"¡Consigue una suscripción gratis a nuestra revista!",spam
+"¿Qué puedo hacer para prevenir enfermedades?",no_spam
+"¡Últimos días para obtener tu regalo!",spam
+"¿Cuáles son los tratamientos más efectivos?",no_spam
+"¡Gana un viaje a Cancún!",spam
+"¿Qué hacer si no me siento bien después de tomar un medicamento?",no_spam
+"¡Haz clic aquí para obtener información exclusiva!",spam
+"¿Qué hacer en caso de intoxicación?",no_spam
+"¡Aprovecha nuestras ofertas de fin de año!",spam
+"¿Cuándo es el mejor momento para tomar este medicamento?",no_spam
+"¡Gana dinero con nuestro programa de afiliados!",spam
+"¿Qué debo saber sobre los efectos secundarios?",no_spam
+"¡Consigue un bono por cada referido!",spam
+"¿Cómo puedo mejorar mi salud mental?",no_spam
+"¡No te pierdas nuestras ofertas especiales!",spam
+"¿Cuáles son las mejores prácticas para el uso de medicamentos?",no_spam
+"¡Gana un año de suministros gratis!",spam
+"¿Cómo puedo saber si un medicamento es seguro?",no_spam
+"¡Haz clic aquí y transforma tu vida!",spam
+"¿Qué pruebas necesito antes de iniciar un tratamiento?",no_spam
+"¡Aprovecha la promoción de la semana!",spam
+"¿Cuál es la diferencia entre estos dos medicamentos?",no_spam
+"¡Gana un iPhone 14 participando en nuestro sorteo!",spam
+"¿Qué medicamentos son efectivos para la hipertensión?",no_spam
+"¡Aprovecha un 70% de descuento en tu primera compra!",spam
+"¿Cómo puedo tratar un resfriado en casa?",no_spam
+"¡Haz clic para obtener un año de suscripción gratis!",spam
+"¿Qué debo hacer si tengo fiebre alta?",no_spam
+"¡No te quedes sin tu regalo de cumpleaños!",spam
+"¿Qué alternativas naturales existen para el dolor?",no_spam
+"¡Gana hasta $500 por compartir este mensaje!",spam
+"¿Qué pruebas son necesarias para un chequeo anual?",no_spam
+"¡Descubre el secreto para perder peso rápidamente!",spam
+"¿Qué hacer si olvido tomar un medicamento?",no_spam
+"¡Última oportunidad para recibir un regalo sorpresa!",spam
+"¿Cuáles son las dosis recomendadas para niños?",no_spam
+"¡Haz clic aquí y mejora tu salud financiera!",spam
+"¿Qué hacer si tengo una reacción alérgica?",no_spam
+"¡Gana un viaje al extranjero solo por registrarte!",spam
+"¿Cómo se deben conservar los medicamentos?",no_spam
+"¡Oferta exclusiva! 3x2 en productos de salud.",spam
+"¿Cuál es el tratamiento más efectivo para la artritis?",no_spam
+"¡Haz clic y obtén descuentos especiales!",spam
+"¿Cuánto tiempo debo tomar este tratamiento?",no_spam
+"¡Invierte y aumenta tus ingresos pasivos!",spam
+"¿Qué síntomas indican que debo ver a un médico?",no_spam
+"¡Aprovecha el envío gratuito en todas tus compras!",spam
+"¿Qué cuidados debo tener con la automedicación?",no_spam
+"¡Gana un kit de productos de belleza!",spam
+"¿Cuándo debo realizarme análisis de sangre?",no_spam
+"¡Descubre cómo tener éxito en el mundo de los negocios!",spam
+"¿Qué hacer si tengo dudas sobre mi tratamiento?",no_spam
+"¡Participa y obtén un premio instantáneo!",spam
+"¿Cuáles son los efectos secundarios de este medicamento?",no_spam
+"¡No te pierdas nuestras ofertas de liquidación!",spam
+"¿Qué medicamento es mejor para el dolor crónico?",no_spam
+"¡Haz clic para conocer nuestra nueva línea de productos!",spam
+"¿Cuándo es necesario cambiar mi tratamiento?",no_spam
+"¡Aprovecha descuentos de hasta el 50%!",spam
+"¿Qué hacer si tengo síntomas de ansiedad?",no_spam
+"¡Gana un viaje de lujo!",spam
+"¡Descuentos exclusivos solo por hoy!",spam
+"¿Cuáles son las contraindicaciones de este fármaco?",no_spam
+"¡Participa en nuestra encuesta y gana!",spam
+"¿Qué hacer si no tengo acceso a un médico?",no_spam
+"¡Gana un año de productos gratis!",spam
+"¿Cómo se debe tomar este tipo de medicamento?",no_spam
+"¡Aprovecha nuestra oferta especial de fin de mes!",spam
+"¿Qué medicamentos son seguros para embarazadas?",no_spam
+"¡Consigue un cupón de descuento por cada compra!",spam
+"¿Qué hacer si no me siento mejor después del tratamiento?",no_spam
+"¡No te pierdas las mejores promociones del año!",spam
+"¿Cuál es el mejor momento del día para tomar este fármaco?",no_spam
+"¡Gana un smartphone de última generación!",spam
+"¿Cómo puedo mejorar mi inmunidad?",no_spam
+"¡Haz clic aquí para obtener un regalo especial!",spam
+"¿Cuánto tiempo dura el efecto de este medicamento?",no_spam
+"¡Aprovecha la oferta solo por tiempo limitado!",spam
+"¿Qué factores debo considerar al elegir un medicamento?",no_spam
+"¡Participa y gana premios increíbles!",spam
+"¿Cuándo es recomendable consultar a un especialista?",no_spam
+"¡Gana un año de servicio gratuito!",spam
+"¿Qué es lo primero que debo hacer ante una emergencia?",no_spam
+"¡Haz clic y descubre cómo mejorar tu salud!",spam
+"¿Cuáles son los síntomas de la alergia?",no_spam
+"¡Descuentos solo por hoy en toda la tienda!",spam
+"¿Qué cuidados debo tener al iniciar un nuevo tratamiento?",no_spam
+"¿Qué medicamentos son más efectivos para la tos?",no_spam
+"¡Participa en nuestro programa y recibe recompensas!",spam
+"¿Cómo puedo obtener más información sobre mi medicamento?",no_spam
+"¡No te quedes sin tu regalo exclusivo!",spam
+"¿Qué hacer si no tengo suficiente información sobre un tratamiento?",no_spam
+"¡Gana un viaje a las Maldivas solo por registrarte!",spam
+"¿Qué medicamento es mejor para la migraña?",no_spam
+"¡Aprovecha nuestra oferta de 2x1 en vitaminas!",spam
+"¿Cuáles son los síntomas de un resfriado común?",no_spam
+"¡Haz clic aquí para obtener un descuento exclusivo!",spam
+"¿Qué debo hacer si me siento mareado después de tomar un medicamento?",no_spam
+"¡Participa y gana un año de suministro gratuito!",spam
+"¿Es seguro usar este medicamento con otros tratamientos?",no_spam
+"¡Gana un teléfono último modelo participando en nuestra rifa!",spam
+"¿Qué tipo de análisis necesito para chequeo general?",no_spam
+"¡Aprovecha hasta un 60% de descuento en productos seleccionados!",spam
+"¿Cómo puedo aliviar la tos sin medicamentos?",no_spam
+"¡Gana dinero extra haciendo encuestas!",spam
+"¿Qué cuidados debo tener con la diabetes?",no_spam
+"¡Consigue un descuento si compras hoy!",spam
+"¿Qué síntomas indican que debo ir al médico?",no_spam
+"¡Participa y gana una tarjeta de regalo!",spam
+"¿Cómo debo tomar este medicamento para mejores resultados?",no_spam
+"¡Descuentos por tiempo limitado en nuestra tienda online!",spam
+"¿Qué opciones de tratamiento existen para la depresión?",no_spam
+"¡Gana un viaje a un destino de tu elección!",spam
+"¿Es necesario consultar a un médico antes de un viaje?",no_spam
+"¡Haz clic aquí y transforma tu salud hoy mismo!",spam
+"¿Qué medicamento es recomendable para el insomnio?",no_spam
+"¡Aprovecha nuestras ofertas especiales solo por hoy!",spam
+"¿Qué alimentos debo evitar al tomar este medicamento?",no_spam
+"¡Gana premios increíbles solo por registrarte!",spam
+"¿Cuándo es el mejor momento para tomar medicamentos?",no_spam
+"¡Participa en nuestro concurso y gana un iPad!",spam
+"¿Cuáles son las mejores prácticas para el uso de antibióticos?",no_spam
+"¡Haz clic y recibe un regalo exclusivo!",spam
+"¿Qué debo hacer si tengo una reacción adversa?",no_spam
+"¡Gana un viaje a un festival musical!",spam
+"¿Qué puedo hacer para mantener mi salud mental?",no_spam
+"¡Aprovecha el 50% de descuento en tu próxima compra!",spam
+"¿Cuáles son los efectos secundarios de la quimioterapia?",no_spam
+"¡Participa y gana un mes de productos gratis!",spam
+"¿Qué precauciones debo tener al tomar este medicamento?",no_spam
+"¡Consigue un descuento al referir a un amigo!",spam
+"¿Cuándo debo realizarme un examen de colesterol?",no_spam
+"¡Gana un kit de productos de cuidado personal!",spam
+"¿Qué medicamentos debo evitar durante el embarazo?",no_spam
+"¡Haz clic aquí y recibe un ebook gratuito!",spam
+"¿Qué hacer si me siento peor después de un tratamiento?",no_spam
+"¡No te pierdas nuestras ofertas de fin de temporada!",spam
+"¿Cómo se deben administrar las vacunas?",no_spam
+"¡Gana una tarjeta de regalo por cada compra!",spam
+"¿Cuándo es recomendable consultar a un nutricionista?",no_spam
+"¡Aprovecha las últimas ofertas en productos de salud!",spam
+"¿Qué alternativas existen para tratar la ansiedad?",no_spam
+"¡Participa y gana un viaje todo incluido!",spam
+"¿Cuánto tiempo dura el efecto de una pastilla para el dolor?",no_spam
+"¿Qué cuidados debo tener al tomar medicamentos nuevos?",no_spam
+"¡Gana un año de productos de belleza gratis!",spam
+"¿Cómo puedo controlar mis niveles de azúcar?",no_spam
+"¡Descuentos especiales solo por hoy en la tienda!",spam
+"¿Qué hacer si tengo dudas sobre un tratamiento?",no_spam
+"¡Participa en nuestro concurso y gana un viaje!",spam
+"¿Qué síntomas debo monitorear con este medicamento?",no_spam
+"¡Gana un auto nuevo solo por registrarte!",spam
+"¿Qué medicamentos son seguros para la hipertensión?",no_spam
+"¡Aprovecha hasta un 80% de descuento en productos de salud!",spam
+"¿Cómo puedo tratar la acidez estomacal?",no_spam
+"¡Haz clic aquí para obtener un viaje gratis!",spam
+"¿Cuáles son los síntomas de una alergia alimentaria?",no_spam
+"¡Gana una tarjeta de regalo de $100!",spam
+"¡Consigue un año de productos de belleza gratis!",spam
+"¿Qué pruebas son necesarias para un chequeo de salud?",no_spam
+"¡Participa y recibe un bono de bienvenida!",spam
+"¿Cuáles son los efectos de la falta de sueño en la salud?",no_spam
+"¿Cómo puedo mejorar mi salud cardiovascular?",no_spam
+"¡Gana un viaje a un destino exótico!",spam
+"¿Qué hacer si tengo fiebre?",no_spam
+"¡Haz clic y descubre cómo ganar dinero desde casa!",spam
+"¡Aprovecha la oferta de 3x2 en productos para la salud!",spam
+"¿Qué hacer si tengo síntomas de depresión?",no_spam
+"¡Gana un smartphone participando en nuestra rifa!",spam
+"¿Cómo puedo prevenir enfermedades comunes?",no_spam
+"¡Descuentos especiales solo por hoy!",spam
+"¿Qué alimentos son recomendables para la salud intestinal?",no_spam
+"¡Participa en nuestro programa de referidos!",spam
+"¿Cuándo es necesario hacerse un examen de sangre?",no_spam
+"¡Gana un viaje todo incluido a Cancún!",spam
+"¿Cómo debo almacenar mis medicamentos?",no_spam
+"¡Haz clic aquí para obtener acceso VIP a nuestras ofertas!",spam
+"¡Aprovecha nuestras ofertas de fin de mes!",spam
+"¿Cuáles son los síntomas de un ataque de ansiedad?",no_spam
+"¡Gana un kit de salud gratis!",spam
+"¿Qué hacer si no mejoro con el tratamiento?",no_spam
+"¡No te pierdas nuestras grandes promociones!",spam
+"¿Qué cuidados debo tener al tomar este medicamento?",no_spam
+"¡Gana un año de suministros de salud gratis!",spam
+"¿Cuándo debo consultar a un especialista?",no_spam
+"¡Haz clic y descubre cómo tener éxito financiero!",spam
+"¿Cuáles son los mejores tratamientos para el dolor crónico?",no_spam
+"¡Participa en nuestro concurso y gana premios increíbles!",spam
+"¿Qué medicamentos son eficaces para la tos seca?",no_spam
+"¿Cómo puedo mejorar mi salud mental y emocional?",no_spam
+"¡Gana un viaje a Europa!",spam
+"¿Qué hacer si tengo dudas sobre un medicamento?",no_spam
+"¡Descuentos especiales en productos seleccionados!",spam
+"¿Cuáles son los síntomas que requieren atención médica inmediata?",no_spam
+"¿Qué cuidados debo tener al usar este tipo de medicamento?",no_spam
+"¡Haz clic aquí para obtener un regalo instantáneo!",spam
+"¡Gana un viaje de ensueño solo por participar!",spam
+"¿Cómo puedo controlar mis niveles de colesterol?",no_spam
+"¿Qué hacer si tengo reacciones adversas a un medicamento?",no_spam
+"¡No te quedes sin tu oferta exclusiva!",spam
+"¿Cómo afecta la alimentación a mi salud general?",no_spam
+"¡Gana una tablet solo por registrarte!",spam
+"¿Qué medicamentos son recomendables para adultos mayores?",no_spam
+"¡Participa y recibe sorpresas en tu correo!",spam
+"¿Cuándo es necesario realizarse un chequeo médico?",no_spam
+"¡Aprovecha las últimas ofertas de la temporada!",spam
+"¿Qué medicamentos son seguros para la lactancia?",no_spam
+"¡Gana un coche nuevo!",spam
+"¿Cómo puedo mantenerme saludable durante el invierno?",no_spam
+"¡Haz clic aquí para obtener un libro gratuito sobre salud!",spam
+"¿Qué cuidados debo tener al tomar antibióticos?",no_spam
+"¡Gana un año de productos de salud gratis!",spam
+"¿Qué es la automedicación y por qué es peligrosa?",no_spam
+"¡Participa en nuestro sorteo mensual!",spam
+"¿Cuáles son los beneficios de llevar una vida activa?",no_spam
+"¡Haz clic para recibir información sobre criptomonedas!",spam
+"¿Qué pasos debo seguir en caso de emergencia médica?",no_spam
+"¡Aprovecha nuestra oferta especial solo por hoy!",spam
+"¿Qué alternativas hay para tratar el insomnio?",no_spam
+"¡Gana un kit de cuidado personal!",spam
+"¿Cómo se relaciona el estrés con la salud física?",no_spam
+"¡Participa y gana increíbles premios!",spam
+"¡Haz clic y descubre secretos de salud!",spam
+"¿Qué alimentos son beneficiosos para el corazón?",no_spam
+"¡No te pierdas nuestras ofertas de primavera!",spam
+"¿Qué hacer si tengo síntomas de alergia?",no_spam
+"¡Gana un año de asesoría nutricional gratis!",spam
+"¿Cómo puedo prevenir enfermedades crónicas?",no_spam
+"¡Aprovecha el 30% de descuento en tu próxima compra!",spam
+"¿Qué medicamentos son más efectivos para la fiebre?",no_spam
+"¡Gana un viaje al Caribe!",spam
+"¿Cómo se deben administrar las dosis de medicamentos?",no_spam
+"¡Haz clic aquí para obtener un descuento instantáneo!",spam
+"¿Cuándo debo hacerme una revisión médica completa?",no_spam
+"¡Participa y gana un día de spa!",spam
+"¿Qué cuidados debo tener al iniciar un nuevo fármaco?",no_spam
+"¡Aprovecha la promoción de salud solo por hoy!",spam
+"¿Cuáles son los beneficios de las consultas regulares al médico?",no_spam
+"¡Gana un año de gimnasio gratis!",spam
+"¿Qué hacer si tengo síntomas persistentes?",no_spam
+"¡Haz clic y recibe un regalo especial!",spam
+"¿Cómo afectan los medicamentos a la salud mental?",no_spam
+"¡Gana un kit de vitaminas y suplementos!",spam
+"¿Qué síntomas indican un problema grave de salud?",no_spam
+"¡Participa en nuestro programa de fidelidad y gana premios!",spam
+"¿Cómo puedo mejorar mi bienestar emocional?",no_spam
+"¡Gana dinero rápido desde casa! Haz clic aquí para más información.",spam
+"Ofertas exclusivas en medicamentos, ¡compra ahora y ahorra!",spam
+"Has ganado un premio! Reclama tu tarjeta de regalo haciendo clic aquí.",spam
+"No te pierdas esta oportunidad única de inversión en criptomonedas.",spam
+"Compra productos farmacéuticos sin receta a precios bajos.",spam
+"¡Aumenta tu libido con este suplemento milagroso!",spam
+"Descubre cómo perder peso rápidamente con este simple truco.",spam
+"Recibe medicamentos a domicilio sin necesidad de receta médica.",spam
+"Haz clic para obtener un descuento del 90% en tu próxima compra.",spam
+"Este es el secreto que los médicos no quieren que sepas.",spam
+"¿Cuáles son los efectos secundarios de este medicamento?",no_spam
+"¿Pueden recomendarme un tratamiento para la alergia?",no_spam
+"Necesito información sobre la interacción entre estos dos medicamentos.",no_spam
+"¿Cuál es la dosis recomendada para este medicamento?",no_spam
+"Quisiera saber si este producto es adecuado para niños.",no_spam
+"¿Hay alguna alternativa natural a este medicamento?",no_spam
+"Tengo una receta médica, ¿puedo enviarla por correo?",no_spam
+"¿Cuál es el horario de atención para consultas farmacéuticas?",no_spam
+"Me gustaría saber más sobre la disponibilidad de este medicamento.",no_spam
+"¿Qué debo hacer si olvido tomar una dosis?",no_spam
