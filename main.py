@@ -4,8 +4,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
+import time
 
 app = FastAPI()
+firstTime = time.time()
 
 # Leer el dataset
 df = pd.read_csv("spam-modular.csv")
@@ -33,4 +35,12 @@ def spam_detection(data: dict = Body(...)):
     return {
         "mensaje": data["mensaje"],
         "spam": prediccion[0]
+    }
+
+@app.get("/healthcheck")
+def healthckeck():
+    return {
+        "status": "ok",
+        "message": "The model is running",
+        "uptime": time.time() - firstTime
     }
